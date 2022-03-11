@@ -53,7 +53,7 @@
 (bt-cmd "pair" (mac-string))
 (bt-cmd "remove" (mac-string))
 (bt-cmd "connect" (mac-string))
-(bt-cmd "disconnect "(mac-string))
+(bt-cmd "disconnect" (mac-string))
 (bt-cmd "info" (mac-string))
 (bt-cmd "trust" (mac-string))
 (bt-cmd "untrust" (mac-string))
